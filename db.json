@@ -1,0 +1,55 @@
+{
+    "devs" : [
+        {
+            "id"        : 1,
+            "name"      : "MH Faruk",
+            "age"       : "js",
+            "location"  : "Kishoreganj",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/271037618_1553216308377249_4283199020092223627_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG8zEOmiqanAyfXbu1DTpN8TQtsQ-UF28RNC2xD5QXbxFxjlklvXbPqqw17SxUdssJYe-EgG4sAX0UjifWrc5J5&_nc_ohc=w9ikRw32JEQAX-7Y7ax&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9h7fbQcj8XJkhUSY2VIno61Pv_fGxdNVJVZ2C4B1g4bw&oe=6220835E"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Ashrafuk Haq",
+            "skill"       : "PHP",
+            "age"       : 32,
+            "location"  : "Mirpur",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGIU8NrH4lcfxVgOEAKtImZbVX3-HfzPKZtVff4d_M8po2vcC658h7TCPvXqq8ubI2z8hpKdwfqCUmQFr_bmn5k&_nc_ohc=VISrouN83tYAX8O1159&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9wh7F-TXDo06Gy4HIoDnJAbBK-347pxgz4YkRQ2I3PPw&oe=622065D4"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Jillur Rahman",
+            "skill"       : "Wordpress",
+            "age"       : 44,
+            "location"  : "Dinajpur",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/81506312_1743649589093730_6312903902740086784_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFrFHtxlUy8vQZ36u1-YOp4V1Fr5x5K3RRXUWvnHkrdFB19s12JePk_dzFWCtkD2VXle7Oo5-OqcckM1HLlzkQo&_nc_ohc=s6oOzTBxDWsAX_ICMQ8&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_ab8HHTEVnRhdG1i9xYAH9BdLUvDrFL22hUTdqoh6V1w&oe=62406929"
+        },
+        {
+            "id"        : 4,
+            "name"      : "Abu Bakkar",
+            "skill"       : "laraval",
+            "age"       : 30,
+            "location"  : "Kustiya",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/270182952_3053775348224061_8743289508235290382_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGm8ckMXt75_4q4KVDmKNjeAoa8VLhxIskChrxUuHEiyWj__1uUdBDHIr06FsiR3UQPJ5BrDFBAlCIo6FepjfVK&_nc_ohc=KQ648_ZD4RMAX9rEjLI&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-8-1KJU744ck29hYZt8RleBSH2XEiCWbK4bNmkcaKuLg&oe=621FD3DB"
+        },
+        {
+            "id"        : 5,
+            "name"      : "শামীম",
+            "skill"       : "react",
+            "age"       : 28,
+            "location"  : "Shairpur",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/262478849_3004918336424622_983894916845351287_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFK92qQqd1WiQmjOWBzPUpBtGfIMGXhj2W0Z8gwZeGPZX1tBnQy-8bP_XG13srfwMDvJztiXBouT3i_CeFH907Y&_nc_ohc=AxrcFxfMTwQAX96LYYI&tn=IDkHzgufxC6pPbOX&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-HCIAxHwM5-UxQa0ToOsAcz6QD7SF0sUdojmElj-pSdA&oe=621FCAA5"
+        }
+    ],
+    "admin" : [
+        {
+            "id"        : 1,
+            "name"      : "MH Faruk",
+            "age"       : 22
+        }
+    ]
+}

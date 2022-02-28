@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Developers Data Cullection",
+  "main": "index.js",
+  "scripts": {
+    "faruk": "json-server --watch db.json --port 5050"
+  },
+  "author": "Faruk",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
