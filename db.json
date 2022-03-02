@@ -3,7 +3,8 @@
         {
             "id"        : 1,
             "name"      : "MH Faruk",
-            "age"       : "js",
+            "skill"       : "js",
+            "age"       : 22,
             "location"  : "Kishoreganj",
             "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
             "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/271037618_1553216308377249_4283199020092223627_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG8zEOmiqanAyfXbu1DTpN8TQtsQ-UF28RNC2xD5QXbxFxjlklvXbPqqw17SxUdssJYe-EgG4sAX0UjifWrc5J5&_nc_ohc=w9ikRw32JEQAX-7Y7ax&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9h7fbQcj8XJkhUSY2VIno61Pv_fGxdNVJVZ2C4B1g4bw&oe=6220835E"
