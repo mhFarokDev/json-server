@@ -44,18 +44,65 @@
             "location"  : "Shairpur",
             "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
             "photo"     : "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/262478849_3004918336424622_983894916845351287_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFK92qQqd1WiQmjOWBzPUpBtGfIMGXhj2W0Z8gwZeGPZX1tBnQy-8bP_XG13srfwMDvJztiXBouT3i_CeFH907Y&_nc_ohc=AxrcFxfMTwQAX96LYYI&tn=IDkHzgufxC6pPbOX&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-HCIAxHwM5-UxQa0ToOsAcz6QD7SF0sUdojmElj-pSdA&oe=621FCAA5"
+        },
+        {
+            "id"        : 6,
+            "name"      : "Kashem",
+            "skill"       : "Node",
+            "age"       : 30,
+            "location"  : "Kustiya",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf9ZyXr8taDIKwJ1p2FpjRG17TAba5ax10Q&usqp=CAU"
+        },
+        {
+            "id"        : 7,
+            "name"      : "Rukeya",
+            "skill"       : "Mobile App",
+            "age"       : 32,
+            "location"  : "US",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30kRURQyZM5Z1tEerJ9Sl4l4STXIXOW5cwJcwGAN5PnE4JwhgkAgtpbXfJbfiAlRHq6U&usqp=CAU"
+        },
+        {
+            "id"        : 8,
+            "name"      : "Jastine Prodo",
+            "skill"       : "Preasident",
+            "age"       : 42,
+            "location"  : "Canada",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDIWl8xWJZIGFcOdo3b5f7vCpnrWJT9UV2-41ZWfY59ZlGlUpe0UAjiBWKKsx0xqpd9Y&usqp=CAU"
+        },
+        {
+            "id"        : 9,
+            "name"      : "Mariya",
+            "skill"       : "Python",
+            "age"       : 18,
+            "location"  : "London",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "http://webdesign-finder.com/rocketmax/images/team/single-big.jpg"
+        },
+        {
+            "id"        : 10,
+            "name"      : "Pitar",
+            "skill"       : "CEO",
+            "age"       : 40,
+            "location"  : "US",
+            "details"   : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrqXFfbBOMblq8_B3dVobrEXdm-4q_H2ilQdsCllYoSulEuP0t2VK4b11bHqIWMRhGww&usqp=CAU"
         }
     ],
-    "admin" : [
+    "Lavel" : [
         {
             "id"        : 1,
-            "name"      : "MH Faruk",
-            "age"       : 22
+            "name"      : "Subcriber"
         },
         {
             "id"        : 2,
-            "name"      : "MH Faruk",
-            "age"       : 23
+            "name"      : "Author"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Administator"
         }
     ]
 }
